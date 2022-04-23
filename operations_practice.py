@@ -12,9 +12,9 @@ print(var3)
 Below are three set's of numbers. Create three variables and make them equal to the result of when the first number entered from one set is raised to the power of the second number.
 '''
 set4, set5, set6, = [2, 3], [10, 7], [5, 4]
-var4 = 8
-var5 = 10000000
-var6 = 625
+var4 = 2**3
+var5 = 10**7
+var6 = 5**4
 print (var4)
 print (var5)
 print (var6)
