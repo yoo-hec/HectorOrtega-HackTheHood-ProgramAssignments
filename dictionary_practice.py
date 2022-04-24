@@ -5,7 +5,6 @@ cheese_price = food_price ["cheese"]
 milk_price = food_price ["milk"]
 print(food_price)
 
-
 pokemon_pokedex_num = {"Charizard": 6, "Pikachu": 26, "Gyrados": 130, "Mewtwo":150}
 Charizard_pokedex = pokemon_pokedex_num ["Charizard"]
 Pikachu_pokedex = pokemon_pokedex_num ["Pikachu"]
